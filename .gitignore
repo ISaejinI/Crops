@@ -1,0 +1,41 @@
+# Ignorer les plugins WordPress
+plugins/
+# Exception : garder crops-events comme submodule
+!plugins/crops-events/
+
+# Ignorer les thèmes WordPress  
+themes/
+# Exception : garder crops comme submodule
+!themes/crops/
+
+# Ignorer les fichiers de mise à jour
+upgrade/
+
+# Ignorer les fichiers de traduction auto-générés
+languages/
+
+# Ignorer les fichiers de cache
+cache/
+w3tc-config/
+advanced-cache.php
+object-cache.php
+
+# Ignorer les backups
+backups/
+backup-db/
+backup/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de log
+*.log
+debug.log
+error_log
+
+# Ignorer les fichiers de configuration de développement
+.htaccess.dev
+wp-config-dev.php
