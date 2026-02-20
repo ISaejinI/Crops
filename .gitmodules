@@ -1,0 +1,6 @@
+[submodule "themes/crops"]
+	path = themes/crops
+	url = https://github.com/ISaejinI/Crops-theme.git
+[submodule "plugins/crops-events"]
+	path = plugins/crops-events
+	url = https://github.com/ISaejinI/Crops-Events.git

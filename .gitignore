@@ -1,12 +1,5 @@
-# Ignorer les plugins WordPress
-plugins/
-# Exception : garder crops-events comme submodule
-!plugins/crops-events/
-
-# Ignorer les thèmes WordPress  
-themes/
-# Exception : garder crops comme submodule
-!themes/crops/
+plugins/advanced-custom-fields/
+plugins/font-awesome/
 
 # Ignorer les fichiers de mise à jour
 upgrade/
