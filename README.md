@@ -42,27 +42,6 @@ Le plugin permet :
 
 ---
 
-## 🧱 Architecture technique
-
-### Custom Post Type
-
-- `event`
-
-### Table personnalisée
-
-`wp_crops_events_registrations`
-
-| Champ         | Type              | Description                    |
-|---------------|------------------|--------------------------------|
-| id            | BIGINT UNSIGNED  | ID unique                     |
-| event_id      | BIGINT UNSIGNED  | ID de l’événement             |
-| user_id       | BIGINT UNSIGNED  | ID utilisateur                |
-| is_registered | TINYINT(1)       | 1 = inscrit                   |
-| created_at    | DATETIME         | Date d’inscription            |
-| updated_at    | DATETIME         | Date de modification          |
-
----
-
 ## 👤 Gestion des rôles
 
 - Les membres utilisent le rôle natif **Subscriber**
