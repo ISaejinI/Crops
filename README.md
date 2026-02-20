@@ -27,18 +27,18 @@ Le projet est composé :
 
 Le plugin permet :
 
-- ✅ Création d’un Custom Post Type `event`
-- ✅ Champs personnalisés via **Advanced Custom Fields (version gratuite)**
-- ✅ Gestion des inscriptions utilisateurs
-- ✅ Table personnalisée pour stocker les inscriptions
-- ✅ Bouton dynamique :
+- Création d’un Custom Post Type `event`
+- Champs personnalisés via **Advanced Custom Fields (version gratuite)**
+- Gestion des inscriptions utilisateurs
+- Table personnalisée pour stocker les inscriptions
+- Bouton dynamique :
   - Se connecter  
   - S’inscrire  
   - Se désinscrire  
-- ✅ Calcul automatique des places restantes
-- ✅ Page “Mes événements” pour les abonnés
-- ✅ Page admin “Voir les participants”
-- ✅ Masquage de la barre d’administration pour les abonnés
+- Calcul automatique des places restantes
+- Page “Mes événements” pour les abonnés
+- Page admin “Voir les participants”
+- Masquage de la barre d’administration pour les abonnés
 
 ---
 
